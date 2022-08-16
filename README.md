@@ -1,11 +1,11 @@
 # Day-Planning
 Made with :
-HTML
-CSS
-JS
-Bootstrap
-Moment.js
-JQuery
+HTML,
+CSS,
+JS,
+Bootstrap,
+Moment.js,
+JQuery,
 
 
 GIVEN I am using a daily planner to create a schedule
